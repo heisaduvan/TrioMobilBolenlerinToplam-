@@ -1,0 +1,6 @@
+C:\Users\isadu\source\repos\TrioMobilBolenlerinToplamı\bin\Debug\TrioMobilBolenlerinToplamı.exe.config
+C:\Users\isadu\source\repos\TrioMobilBolenlerinToplamı\bin\Debug\TrioMobilBolenlerinToplamı.exe
+C:\Users\isadu\source\repos\TrioMobilBolenlerinToplamı\bin\Debug\TrioMobilBolenlerinToplamı.pdb
+C:\Users\isadu\source\repos\TrioMobilBolenlerinToplamı\obj\Debug\TrioMobilBolenlerinToplamı.csprojAssemblyReference.cache
+C:\Users\isadu\source\repos\TrioMobilBolenlerinToplamı\obj\Debug\TrioMobilBolenlerinToplamı.exe
+C:\Users\isadu\source\repos\TrioMobilBolenlerinToplamı\obj\Debug\TrioMobilBolenlerinToplamı.pdb
